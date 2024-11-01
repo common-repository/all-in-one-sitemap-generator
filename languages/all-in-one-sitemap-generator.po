@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: all-in-one-sitemap-generator.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-14 10:38+0530\n"
+"PO-Revision-Date: 2018-04-14 10:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: English (India)\n"
+"Language: en-IN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en-IN\n"
+"X-Loco-Api-Version: 1.0.19 20180411-1"
+
+#. Name of the plugin
+msgid "All In One Sitemap Generator"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create sitemap in XML and txt format and robots editor."
+msgstr ""
+
+#. Author of the plugin
+msgid "Techsurvi"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://techsurvi.com"
+msgstr ""
